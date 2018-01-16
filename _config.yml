@@ -2,7 +2,7 @@ name: Awesome Mentors at IIITD
 
 category_dir: /
 
-markdown: rdiscount
+markdown: kramdown
 
 permalink: pretty
 
