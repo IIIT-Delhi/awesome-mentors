@@ -1,1 +1,9 @@
+name: Awesome Mentors at IIITD
+
+category_dir: /
+
+markdown: rdiscount
+
+permalink: pretty
+
 theme: jekyll-theme-minimal
