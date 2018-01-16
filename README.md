@@ -10,4 +10,5 @@ The star( * ) symbol under "Mentorship focus area" column means that the mentor 
 
 | Mentor Name                  |     GitHub    | Mentorship focus areas    |
 | :-----------          |     :---       |          :--- |
-| Siddharth Yadav | [@geekSiddharth](https://github.com/geekSiddharth/) | Image Processing(OpenCV, ImageJ, skimage), front-end development, Keras, RPI/Arudino, |
+|Peeyush Kushwaha| [@peey](https://github.com/peey)| [Babel-GSoC](https://github.com/peey/babel), Compilers, JS God, lips, sympy|
+| Siddharth Yadav | [@geekSiddharth](https://github.com/geekSiddharth/) | [OpenWorm-GSoC](https://gist.github.com/geekSiddharth/b1febf1585c94aa7e3041fb7e5538763), Image Processing(OpenCV, ImageJ, skimage), front-end development, Keras, RPI/Arudino|
