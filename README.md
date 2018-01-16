@@ -1,5 +1,5 @@
 # Awesome Mentors @IIIT-Delhi  
-List of people willing to help and mentor others with thier opensource contribution or thier projects.
+List of people willing to help and mentor others with their opensource contribution or their projects.
 
 ## Why?  
 Well, getting started is hard.
