@@ -6,4 +6,4 @@ markdown: rdiscount
 
 permalink: pretty
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
