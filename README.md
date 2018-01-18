@@ -10,6 +10,7 @@ The star( * ) symbol under "Mentorship focus area" column means that the mentor 
 
 | Mentor Name                  |     GitHub    | Mentorship focus areas    |
 | :-----------          |     :---       |          :--- |
-|Peeyush Kushwaha| [@peey](https://github.com/peey)| [Babel-GSoC](https://github.com/peey/babel), Compilers, JS God, lips, sympy|
+| Peeyush Kushwaha | [@peey](https://github.com/peey)| [Babel-GSoC](https://github.com/peey/babel), Compilers, all things JavaScript|
 | Siddharth Yadav | [@geekSiddharth](https://github.com/geekSiddharth/) | [OpenWorm-GSoC](https://gist.github.com/geekSiddharth/b1febf1585c94aa7e3041fb7e5538763), Image Processing(OpenCV, ImageJ, skimage), front-end development, Keras, RPI/Arudino|
 | Palash Bansal | [@palashbansal96](https://github.com/palashbansal96/) | Graphics, Android, Unity3D, Game Development, x86 asm, ARM, RPI/Arudino, VR, PHP, django, Image Processing(OpenCV mostly), Dev on Windows, Hackathons, CTFs, * |
+| Sambhav Satija | [@darkryder](https://github.com/darkryder) | Django, Flask, Android, GBA development, C, Infra tools, DevOps, CI/CD pipelines, *, |
