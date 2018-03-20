@@ -27,3 +27,8 @@ The star( * ) symbol under "Mentorship focus area" column means that the mentor 
 
 # References:
 If you're looking for mentors outside the college, you may find this helpful: [awesome-oss-mentors](https://github.com/lenadroid/awesome-oss-mentors)
+
+* [Ada Developer Academy](https://adadevelopersacademy.org/)  
+* [Apache Mentoring Programme](https://community.apache.org/mentoringprogramme.html) 
+* [OpenStack Mentoring](https://wiki.openstack.org/wiki/Mentoring) 
+
