@@ -26,6 +26,7 @@ The star( * ) symbol under "Mentorship focus area" column means that the mentor 
 | Muhammad Falak | [@mfrw](https://github.com/mfrw) | Linux Kernel, Distributed Systems, Go, * |
 | Naman | [@naman](https://github.com/naman) | web/mobile-dev, systems, HCI, <enter> programming language, DevOps, Privacy, Security, * |
 | Raghav Kukreti | [@raghav-kukreti](https://github.com/raghav-kukreti) | web(flask, django, html, css, sass, less, coffeescript, jquery, vue, node {express, sails-js}), databases(mongo, postgres, sqlite), ml/dl(tensorflow, pytorch, sklearn), gui/graphics(qt, unity), hackathons * |
+| Viresh Gupta | [@virresh](https://github.com/virresh) | [coala-GSoC](http://projects.coala.io/GSoC/2018/StatusReport/virresh.html), desktop, web and android development, databases, ml/dl/rl, scripting, automation and testing, * |
 
 # References:
 If you're looking for mentors outside the college, you may find this helpful: [awesome-oss-mentors](https://github.com/lenadroid/awesome-oss-mentors)
